@@ -1,7 +1,6 @@
 import win32com.client
  
- 
-# 연결 여부 체크
+ # 연결 여부 체크
 objCpCybos = win32com.client.Dispatch("CpUtil.CpCybos")
 bConnect = objCpCybos.IsConnect
 if (bConnect == 0):
