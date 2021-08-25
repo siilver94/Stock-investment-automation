@@ -41,7 +41,7 @@ exPrice = objStockMst.GetHeaderValue(55) #예상체결가
 exDiff = objStockMst.GetHeaderValue(56) #예상체결가 전일대비
 exVol = objStockMst.GetHeaderValue(57) #예상체결수량
  
- 
+
 print("코드", code)
 print("이름", name)
 print("시간", time)
