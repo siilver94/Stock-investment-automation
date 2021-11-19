@@ -1,5 +1,4 @@
 # 원하는 종목의 현재가
-
 import win32com.client
  
 # 크레온 플러스 연결 여부 체크
