@@ -1,4 +1,3 @@
-```python
 import win32com.client
  
 # 크레온 플러스 연결 여부 체크
@@ -95,4 +94,3 @@ hwndListControl = win32gui.FindWindowEx( hwndMain, None, "EVA_VH_ListControl_Dbl
 # # 채팅 전송
 text = "비보존 매도호가 : "+ str(offer) #입력할 메세지
 kakao_sendtext(text)
-```
