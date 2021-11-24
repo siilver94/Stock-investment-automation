@@ -65,7 +65,6 @@ print("예상체결가", exPrice)
 print("예상체결가 대비", exDiff)
 print("예상체결수량", exVol)
  
-
 import time, win32con, win32api, win32gui
 
 # # 카톡창 이름 (열려있는 상태, 최소화 X, 창뒤에 숨어있는 비활성화 상태 가능)
