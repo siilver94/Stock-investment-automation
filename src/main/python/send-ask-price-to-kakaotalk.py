@@ -52,7 +52,6 @@ print("매수호가", bid)
 print("거래량", vol)
 print("거래대금", vol_value)
  
- 
 if (exFlag == ord('0')):
     print("장 구분값: 동시호가와 장중 이외의 시간")
 elif (exFlag == ord('1')) :
