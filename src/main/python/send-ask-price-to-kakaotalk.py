@@ -32,7 +32,7 @@ offer = objStockMst.GetHeaderValue(16)  #매도호가
 bid = objStockMst.GetHeaderValue(17)   #매수호가
 vol= objStockMst.GetHeaderValue(18)   #거래량
 vol_value= objStockMst.GetHeaderValue(19)  #거래대금
- 
+
 # 예상 체결관련 정보
 exFlag = objStockMst.GetHeaderValue(58) #예상체결가 구분 플래그
 exPrice = objStockMst.GetHeaderValue(55) #예상체결가
