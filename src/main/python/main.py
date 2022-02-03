@@ -180,8 +180,7 @@ def buy_etf(code): #변동성 돌파 전략 함수
             buy_qty = int(buy_amount) // ask_price  
         stock_name, stock_qty = get_stock_balance(code)  # 종목명과 보유수량 조회
         #printlog('bought_list:', bought_list, 'len(bought_list):',
-        #    len(bought_list), 'target_buy_count:', target_buy_count)    
-        # 
+        #    len(bought_list), 'target_buy_count:', target_buy_count)     
         # 현재가가 target_price(변동성돌파전략)와 ma5(이동평균선5일) 과 ma10(이동평균선10일)
         # 보다 높은지 계산.
         if current_price > target_price and current_price > ma5_price \
