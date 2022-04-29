@@ -49,17 +49,17 @@
 
 ## 사용기술
 
-- Python
+- **Python**
 
-- Pandas
+- **Pandas**
 
-- Beautiful Soup
+- **Beautiful Soup**
 
-- urllib
+- **urllib**
 
-- Selenium
+- **Selenium**
 
-- Kakao Chatbot
+- **Kakao Chatbot**
 
 <br/>
 
