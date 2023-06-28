@@ -1,7 +1,5 @@
 # Project : 주식 투자 자동화 (Stock Investment Automation)
-
 <br/>
-
 <img width="619" alt="20210522_002726" src="https://user-images.githubusercontent.com/57824945/119161739-9b65d380-ba94-11eb-83ba-3fa6f9a882d0.png">
 
 <br/>
