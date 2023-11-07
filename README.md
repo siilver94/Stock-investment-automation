@@ -1,4 +1,4 @@
-# Project : 주식 투자 자동화 (Stock Investment Automation)
+# Project : 주식 투자 자동화 하기 (Stock Investment Automation)
 
 <br/>
 
