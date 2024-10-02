@@ -1,4 +1,4 @@
-# Project : 주식 투자 자동화 하기 (Stock Investment Automation)
+# 주식 투자 자동화 하기 (Stock Investment Automation)
 
 <br/>
 
@@ -43,19 +43,19 @@
 그리고 카카오톡 메신저를 사용하여 실시간으로 거래 결과를 받아 볼 수 있게 만들었습니다.
 
 
-**- Python**
+**- `Python`**
 
-**- Pandas**
+**- `Pandas`**
 
-**- Beautiful Soup**
+**- `Beautiful Soup`**
 
-**- Url-lib**
+**- `Url-lib`**
 
-**- Selenium**
+**- `Selenium`**
 
-**- Kakao Chatbot**
+**- `Kakao Chatbot`**
 
-**- CREON API**
+**- `CREON API`**
 
 
  <br/>
