@@ -29,9 +29,9 @@ https://www.creontrade.com/g.ds?p=4108&v=3073&m=4441
 
 <br/>
 
-### 다운로드 후 creon plus log in
+### 다운로드 후 creon plus 로그인 하기
 
 ![20210531_094358](https://user-images.githubusercontent.com/57824945/120125683-ba7f0680-c1f4-11eb-9507-b505cf83c113.png)
 
 
- # **주식매매 자동화 프로그램을 실행 중일 때 크레인도 실행이 되고 있어야 합니다.**
+ ## [중요!] **주식매매 자동화 프로그램을 실행 중일 때 크레인도 실행이 되고 있어야 합니다.**
